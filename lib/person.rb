@@ -1,5 +1,5 @@
 class Person
-    def initialize=(name, job)
+    def initialize= nme, jb
         @name = name
         @breed = breed
     end
